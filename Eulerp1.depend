@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1644421699 source:c:\users\damie\documents\code bg\c\euler\eulerp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"1_5.h"
+
+1644421699 c:\users\damie\documents\code bg\c\euler\eulerp1\1_5.h
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+
+1645266342 source:c:\users\damie\documents\code bg\c\euler\eulerp1\1_5.c
+	"1_5.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
